@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\rocketseat_trilha.API.props" />
+</Project>
