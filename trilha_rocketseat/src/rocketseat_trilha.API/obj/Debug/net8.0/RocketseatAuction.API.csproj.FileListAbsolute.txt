@@ -120,3 +120,4 @@ D:\trilhaRocketseat\trilha_rocketseat\src\rocketseat_trilha.API\obj\Debug\net8.0
 D:\trilhaRocketseat\trilha_rocketseat\src\rocketseat_trilha.API\obj\Debug\net8.0\RocketseatAuction.API.pdb
 D:\trilhaRocketseat\trilha_rocketseat\src\rocketseat_trilha.API\obj\Debug\net8.0\RocketseatAuction.API.genruntimeconfig.cache
 D:\trilhaRocketseat\trilha_rocketseat\src\rocketseat_trilha.API\obj\Debug\net8.0\ref\RocketseatAuction.API.dll
+D:\trilhaRocketseat\trilha_rocketseat\src\rocketseat_trilha.API\obj\Debug\net8.0\RocketseatAuction.API.sourcelink.json
