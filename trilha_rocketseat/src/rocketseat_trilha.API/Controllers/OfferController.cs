@@ -5,7 +5,7 @@ using RocketseatAuction.API.UseCases.Offers.CreateOffer;
 
 namespace RocketseatAuction.API.Controllers;
 
-[ServiceFilter(typeof(AuthenticationUserAttribute))]
+[ServiceFilter(typeof(AuthenticationUserAttibute))]
 public class OfferController : RocketseatAuctionBaseController
 {
     [HttpPost]
